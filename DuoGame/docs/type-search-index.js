@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hu.unideb.inf.duogame","l":"DuoGame"},{"p":"hu.unideb.inf.duogame","l":"MyDuoGame"},{"p":"hu.unideb.inf.duogame","l":"Status"}]

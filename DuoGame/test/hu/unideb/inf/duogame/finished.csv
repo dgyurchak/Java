@@ -1,0 +1,10 @@
+status,expected
+AABB,false
+FAFB,false
+FFFFF,false
+FF,true
+F,true
+A,false
+B,false
+AFFFB,false
+AFFB,true
